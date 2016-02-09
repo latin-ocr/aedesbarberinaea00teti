@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aedesbarberinaea00teti_0011.png"; bbox 0 0 2492 3741; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 195 285 2118 3024">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 195 285 2118 3024">
+     <span class='ocr_line' id='line_1_1' title="bbox 195 285 2118 3024; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 195 285 2118 3024; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 245 3192 1973 3269">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 245 3192 1973 3269">
+     <span class='ocr_line' id='line_1_2' title="bbox 245 3192 1973 3269; baseline 0.009 -16"><span class='ocrx_word' id='word_1_2' title='bbox 245 3192 622 3265; x_wconf 81' lang='lat' dir='ltr'>ROMAE,</span> <span class='ocrx_word' id='word_1_3' title='bbox 667 3194 1030 3263; x_wconf 79' lang='lat' dir='ltr'>Excudebat</span> <span class='ocrx_word' id='word_1_4' title='bbox 1059 3199 1442 3269; x_wconf 84' lang='lat' dir='ltr'>Mascardus,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1486 3198 1973 3268; x_wconf 87' lang='lat' dir='ltr'><strong>MDCXLII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 163 3278 2058 3305">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 163 3278 2058 3305">
+     <span class='ocr_line' id='line_1_3' title="bbox 163 3278 2058 3305; baseline 0 436"><span class='ocrx_word' id='word_1_6' title='bbox 163 3278 2058 3305; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 442 3323 1851 3380">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 442 3323 1851 3380">
+     <span class='ocr_line' id='line_1_4' title="bbox 442 3323 1851 3380; baseline 0.012 -16"><span class='ocrx_word' id='word_1_7' title='bbox 442 3323 1128 3374; x_wconf 83' lang='lat' dir='ltr'><em>SVPERIORVM</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1217 3329 1851 3380; x_wconf 75' lang='lat' dir='ltr'>PERMlsSV.···</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
